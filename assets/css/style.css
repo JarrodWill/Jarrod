@@ -64,7 +64,7 @@
    * shadow
    */
 
-    --shadow-1: -4px 8px 24px hsla(188, 60%, 45%, 1);
+    --shadow-1: -4px 8px 10px hsla(188, 60%, 45%, 1);
     --shadow-2: 0 16px 30px hsla(188, 60%, 45%, 1);
     --shadow-3: 0 16px 20px hsla(188, 60%, 45%, 1);
     --shadow-4: 0 25px 25px hsla(188, 60%, 45%, 1);
