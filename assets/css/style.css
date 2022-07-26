@@ -39,8 +39,8 @@
     --orange-yellow-crayola: hsla(188, 60%, 45%, 1);
     --vegas-gold: hsla(188, 60%, 45%, 1);
     --light-gray: hsla(188, 60%, 45%, 1);
-    --light-gray-70: hsla(0, 0%, 84%, 0.7);
-    --bittersweet-shimmer: hsl(0, 43%, 51%);
+    --light-gray-70: hsla(188, 60%, 45%, 1);
+    --bittersweet-shimmer: hsla(188, 60%, 45%, 1);
     /**
    * typography
    */
