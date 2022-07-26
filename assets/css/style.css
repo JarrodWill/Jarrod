@@ -33,10 +33,10 @@
     --onyx: hsl(240, 1%, 17%);
     --eerie-black-1: hsl(240, 2%, 13%);
     --eerie-black-2: hsl(240, 2%, 12%);
-    --smoky-black: hsl(0, 0%, 7%);
+    --smoky-black: hsla(0, 100%, 59%, 1);
     --white-1: hsl(0, 0%, 100%);
     --white-2: hsl(0, 0%, 98%);
-    --orange-yellow-crayola: hsla(0, 100%, 59%, 1);
+    --red: hsla(0, 100%, 59%, 1);
     --red: hsla(0, 100%, 59%, 1);
     --light-gray: hsl(0, 0%, 84%);
     --light-gray-70: hsla(0, 0%, 84%, 0.7);
